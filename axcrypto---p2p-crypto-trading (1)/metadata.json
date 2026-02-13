@@ -1,0 +1,7 @@
+{
+  "name": "axcrypto - P2P Crypto Trading",
+  "description": "A comprehensive P2P cryptocurrency trading platform for Bangladesh, featuring user and admin dashboards, real-time rates, and secure transaction management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
